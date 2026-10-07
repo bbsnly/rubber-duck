@@ -1,0 +1,11 @@
+{
+  "name": "bbsnly",
+  "description": "Rubber duck: a thinking partner that asks guiding questions instead of handing over the answer.",
+  "author": {
+    "name": "Anatoliy Babushka"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/bbsnly/rubber-duck",
+  "repository": "https://github.com/bbsnly/rubber-duck",
+  "keywords": ["rubber-duck", "debugging", "socratic", "thinking"]
+}
