@@ -20,7 +20,7 @@ As a Claude Code plugin:
 
 ```bash
 claude plugin marketplace add bbsnly/rubber-duck
-claude plugin install bbsnly@bbsnly
+claude plugin install rubber-duck@bbsnly
 ```
 
 ## Use
@@ -35,7 +35,7 @@ rubber duck me: this function drops the last item and I can't see why
 I want to think out loud about whether to take this job offer
 ```
 
-In Claude Code you can also call it directly with `/bbsnly:rubber-duck`.
+In Claude Code you can also call it directly with `/rubber-duck:rubber-duck`.
 
 ## What to expect
 

@@ -6,7 +6,7 @@
   },
   "plugins": [
     {
-      "name": "bbsnly",
+      "name": "rubber-duck",
       "source": "./",
       "description": "Rubber duck: a thinking partner that asks guiding questions instead of handing over the answer."
     }
