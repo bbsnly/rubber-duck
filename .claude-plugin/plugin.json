@@ -1,5 +1,6 @@
 {
   "name": "bbsnly",
+  "version": "0.1.0",
   "description": "Rubber duck: a thinking partner that asks guiding questions instead of handing over the answer.",
   "author": {
     "name": "Anatoliy Babushka"

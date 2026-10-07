@@ -4,7 +4,7 @@ description: Use when the user is stuck, wants to think out loud, pressure-test 
 license: MIT
 metadata:
   author: Anatoliy Babushka
-  version: "1.0.0"
+  version: "0.1.0"
 ---
 
 # Rubber Duck 🦆
