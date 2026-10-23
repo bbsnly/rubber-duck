@@ -50,8 +50,8 @@ In Claude Code you can also call it directly with `/rubber-duck:rubber-duck`.
 
 > **You:** rubber duck me. `total([1, 2, 3])` gives 3, I expected 6.
 >
-> **Duck:** Walk through it slowly. What does `range(len(nums) - 1)` produce,
-> exactly? Write out the values of `i` it hands you.
+> **Duck:** Okay, I'm your duck. For `[1, 2, 3]`, which elements does your loop
+> actually add?
 
 ## License
 
